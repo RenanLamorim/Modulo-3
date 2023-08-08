@@ -7,3 +7,7 @@
 
 - para botar uma imagem de fundo em vez de um linear gradient use a função url()
   ex: background-image: url();
+
+- para cria uma borda no seu texto use o seguinte web-kit:
+        -webkit-text-stroke-color: black;
+        -webkit-text-stroke-width: 1.3px; 
