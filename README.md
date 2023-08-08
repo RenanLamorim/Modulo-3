@@ -1,2 +1,2 @@
 # Modulo-3
- Exercicios do curso de HTML5 e CSS3 do Gustavo guanabara
+Exercícios do modulo 3 do curso de HTML5 e CSS3 do Gustavo Guanabara
