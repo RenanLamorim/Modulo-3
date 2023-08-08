@@ -1,0 +1,6 @@
+-uma div pode ter uma classe e um id a msm tempo.
+
+-se voce quiser fazer a mesma alteração em varios objetos voce pode dar a mesma classe a eles e 
+ se voce precisar alteralos individualmente voce pode dar um id unico a cada um.
+
+-linear gradients são usados com a tag background-image: linear gradients();
