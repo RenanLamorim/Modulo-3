@@ -3,4 +3,7 @@
 -se voce quiser fazer a mesma alteração em varios objetos voce pode dar a mesma classe a eles e 
  se voce precisar alteralos individualmente voce pode dar um id unico a cada um.
 
--linear gradients são usados com a tag background-image: linear gradients();
+- a função linear gradient é utilizada com a tag background-image: linear gradient();
+
+- para botar uma imagem de fundo em vez de um linear gradient use a função url()
+  ex: background-image: url();
