@@ -18,16 +18,20 @@
 
 - background-repeat: no-repeat; é a tag que é usada pra fazer a imagem não se repetir.
 
-- background-repeat: repat-x; vai fazer a imagem se repetir no eixo x (linha)
+- background-repeat: repat-x; vai fazer a imagem se repetir no eixo x (linha).
 
-- background-repeat: repeat-y; vai fazer a imagem se repetir no eixo y (Coluna)
+- background-repeat: repeat-y; vai fazer a imagem se repetir no eixo y (Coluna).
 
 - background-position: ;
   valores:Left bottom 
           left top
           left center
+          center center
           right bottom 
           right top
           right center
-          center center
-      
+
+-um body com height: 725px; não gera rolagem vertical.
+
+- voce tambem pode usar height: 100vh; que significa 100% da view height. 
+  que é o tamanho da view port, portanto é mais responsivo.      
