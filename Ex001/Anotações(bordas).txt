@@ -22,3 +22,12 @@
 
 - background-repeat: repeat-y; vai fazer a imagem se repetir no eixo y (Coluna)
 
+- background-position: ;
+  valores:Left bottom 
+          left top
+          left center
+          right bottom 
+          right top
+          right center
+          center center
+      
