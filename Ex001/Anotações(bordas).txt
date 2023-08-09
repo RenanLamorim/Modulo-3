@@ -21,3 +21,4 @@
 - background-repeat: repat-x; vai fazer a imagem se repetir no eixo x (linha)
 
 - background-repeat: repeat-y; vai fazer a imagem se repetir no eixo y (Coluna)
+
