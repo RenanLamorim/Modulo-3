@@ -45,3 +45,8 @@
 background-attachment:;
 valores:scroll(vem por padrão e faz sua imagem rolar junto com o scroll)
         fixed(faz sua imagem ficar fixada no fundo e caso vc role so o conteudo vai ser scrollado)
+
+shorthand background:
+background:color > image > position > repeat> size> attachment;
+(apesar de que na teoria o size deveria funcionar no shorthand ele nao funciona então vc é obrigado
+ a criar um background-size: cover; embaixo do shorthand com os outros valores)
