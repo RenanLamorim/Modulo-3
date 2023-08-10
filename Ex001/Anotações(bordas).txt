@@ -50,3 +50,17 @@ shorthand background:
 background:color > image > position > repeat> size> attachment;
 (apesar de que na teoria o size deveria funcionar no shorthand ele nao funciona então vc é obrigado
  a criar um background-size: cover; embaixo do shorthand com os outros valores)
+
+position: relative; (div-pai)
+
+position: absolute; (div-filha)
+
+-faznd isso voce pode aplicar left: 50%; e top: 50%; para mover a div
+
+-outra forma de mover a div é com tranform: translate(-50% -50);
+ 
+que se o valor for positivo vai mover pra direita e pra baixo e
+se for negativo vai mover pra esquerda e pra cima. 
+
+no caso os valores -50% -50% posiconaram o objeto no meio como pode ser visto no
+fundos007.
