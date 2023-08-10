@@ -41,3 +41,7 @@
 
 - voce tambem pode usar height: 100vh; que significa 100% da view height. 
   que é o tamanho da view port, portanto é mais responsivo.      
+
+background-attachment:;
+valores:scroll(vem por padrão e faz sua imagem rolar junto com o scroll)
+        fixed(faz sua imagem ficar fixada no fundo e caso vc role so o conteudo vai ser scrollado)
