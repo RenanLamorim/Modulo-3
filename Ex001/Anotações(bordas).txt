@@ -13,6 +13,12 @@
         -webkit-text-stroke-width: 1.3px; 
 
 - background-size:100px 100px; para escolher o tamanho da imagem que vai ser repetida.
+  
+         contain:mostra 100% da imagem independente do tamanho do body mesmo que precise diminuir 
+         ela e repetir varias vezes
+
+         cover:faz com que a tela fique 100% preenchida mesmo independente do tamanho da tela 
+               dando zoom na imagem mesmo que ela esteja coma a função no-repeat 
 
 - background-repeat: repeat; é a tag q vem por padrão mesmo que voce não use ela.
 
