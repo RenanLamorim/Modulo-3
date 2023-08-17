@@ -1,0 +1,11 @@
+Hierarquia de tabelas
+
+TABLE
+     TABLE ROW(primeira Linha) tr
+              TABLE HEADER(Cabeçalho) th
+                          TABLE DATA(Dados) td
+
+Border-collapse: separate; (Valor padrão que mantem as bordas separadas)
+
+
+Border-collapse: collapse; (Valor que junta as bordas)
