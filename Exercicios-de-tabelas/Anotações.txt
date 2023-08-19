@@ -13,3 +13,6 @@ Border-collapse: collapse; (Valor que junta as bordas)
 vetical-align: top; (funciona exatamente igual o text-align so que verticalmente)
 
 -se quiser alinha no centro usando vertical-align voce usa middle e não center
+
+-o excel por exemplo bota todos os numeros a direita voce pode fazer isso em css criando
+ uma classe .numero{text-align: right;} 
