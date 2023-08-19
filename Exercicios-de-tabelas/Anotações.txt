@@ -9,3 +9,5 @@ Border-collapse: separate; (Valor padrão que mantem as bordas separadas)
 
 
 Border-collapse: collapse; (Valor que junta as bordas)
+
+vetical-align: top; (funciona exatamente igual o text-align)
