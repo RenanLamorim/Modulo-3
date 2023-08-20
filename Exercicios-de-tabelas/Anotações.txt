@@ -16,3 +16,11 @@ vetical-align: top; (funciona exatamente igual o text-align so que verticalmente
 
 -o excel por exemplo bota todos os numeros a direita voce pode fazer isso em css criando
  uma classe .numero{text-align: right;} 
+
+thead (tag semantica que contem todos os tr e th do cabeçalho)
+
+tbody (tag semantica que contem todos os tr e td do corpo da tabela)
+
+tfoot (tag semantica que contem todos os th tr e td do footer)
+
+-um th e a a mesma coisa que um td so que em negrito e centralizado no center
