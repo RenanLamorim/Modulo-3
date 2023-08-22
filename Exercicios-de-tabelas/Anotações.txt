@@ -1,6 +1,7 @@
 Hierarquia de tabelas
 
 TABLE
+     CAPTION (titulo da tabela)
      TABLE ROW(primeira Linha) tr
               TABLE HEADER(Cabeçalho) th
                           TABLE DATA(Dados) td
@@ -24,3 +25,6 @@ tbody (tag semantica que contem todos os tr e td do corpo da tabela)
 tfoot (tag semantica que contem todos os th tr e td do footer)
 
 -um th e a a mesma coisa que um td so que em negrito e centralizado no center
+
+scope="rol"(serve pra indicar se o conteudo ao qual o "th" se refere esta em coluna ou em linha)
+
