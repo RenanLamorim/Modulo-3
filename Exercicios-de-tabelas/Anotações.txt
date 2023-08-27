@@ -40,5 +40,6 @@ valores: odd "zebrar linhas impar"
 
 ex:
 table{position:relative;}
-thead > tr > th{position:sitcky; top:0%;}
+thead > tr > th{position:sitcky; 
+                top:0%;}
 
