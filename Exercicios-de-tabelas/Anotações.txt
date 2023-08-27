@@ -34,3 +34,11 @@ scope="col"(serve pra indicar se o conteudo ao qual o "th" se refere esta em col
 valores: odd "zebrar linhas impar"
          even "zebrar linhas par"
 
+-Para fixar um cabeçalho no topo da pagina voce precisa usar:
+"position:relative;" no obejto pai
+"position:sticky; top:0%;" no cabeçalho 
+
+ex:
+table{position:relative;}
+thead > tr > th{position:sitcky; top:0%;}
+
