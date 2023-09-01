@@ -43,5 +43,12 @@ table{position:relative;}
 thead > tr > th{position:sitcky; 
                 top:0%;}
 
+mesclagem de calular: para fazer uma celula ocupar o espaço de 2 ou mais celulas use
+
+rowspan(pra expandir em linha)
+colspan(pra expandir em tabela)
+
+realmente é ao contrario do que seria normalmente por algum motivo
+
 
 
