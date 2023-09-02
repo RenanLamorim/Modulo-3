@@ -26,8 +26,6 @@ tfoot (tag semantica que contem todos os th tr e td do footer)
 
 -um th e a a mesma coisa que um td so que em negrito e centralizado no center
 
-scope="col"(serve pra indicar se o conteudo ao qual o "th" se refere esta em coluna ou em linha)
-
 :nth-child(2n) é um subclasse que serve pra botar efeito zebrado em tabelas e o 2n indica que
                o efeito deve ser aplicado de 2 em 2 linhas se fosse um 3 n seria de 3 em 3
 
@@ -49,6 +47,14 @@ rowspan(pra expandir em linha)
 colspan(pra expandir em tabela)
 
 realmente é ao contrario do que seria normalmente por algum motivo
+
+scope="col"(serve pra indicar se o conteudo ao qual o "th" se refere esta em coluna ou em linha)
+
+valores: col (coluna)
+         row (linhas)
+         rowgroup (grupo de linhas)
+         colgroup (grupo de colunas)
+
 
 
 
