@@ -55,6 +55,23 @@ valores: col (coluna)
          rowgroup (grupo de linhas)
          colgroup (grupo de colunas)
 
+-colgroup é uma tag usada pra estilizar um coluna separada sem ter que ficar alterando um dado de cada vez
+
+-para fazer isso voce cria a tag colgroup e bota a mesma quantidade de tags col dentro que a quantidade colunas
+ que tem sua tabela
+
+exemplo:<colgroup>
+            <col class="cnome">
+            <col class="csexo">
+            <col class="cidade">
+            <col class="cprof">
+        </colgroup>
+
+caso voce queira aplicar as alteraçoes em mais de uma coluna de cada vez voce pode usar um col a menos e usar o 
+span="2" que fara a alteração se expandir pra duas colunas.
+
+
+
 
 
 
