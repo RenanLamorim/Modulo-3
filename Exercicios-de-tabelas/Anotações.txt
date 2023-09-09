@@ -70,6 +70,16 @@ exemplo:<colgroup>
 caso voce queira aplicar as alteraçoes em mais de uma coluna de cada vez voce pode usar um col a menos e usar o 
 span="2" que fara a alteração se expandir pra duas colunas.
 
+RESPONSIVIDADE DE TABELA:
+-para fazer uma tabela responsiva bote a table inteira dentro de uma div de uma classe a div e nas configurações de css
+ use a tag:
+ 
+overflow-x:auto;  
+
+-essa tag vai fazer com que a rolagem lateral seja so da tabela e nao afete o conteudo principal do site.
+
+
+
 
 
 
